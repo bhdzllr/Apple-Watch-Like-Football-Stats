@@ -22,19 +22,8 @@ The visualization is divided into 6 Patches:
 ## Screenshots ##
 
 ![Patch overview](res/screenshots/screenshot1-overview.png "Patch overview")
-Caption
-
 ![Wins (pie chart)](res/screenshots/screenshot2-wins.png "Wins (pie chart)")
-Caption
-
 ![Wins (bar chart)](res/screenshots/screenshot3-wins.png "Wins (bar chart)")
-Caption
-
 ![Draws](res/screenshots/screenshot4-draws.png "Draws")
-Caption
-
 ![Defeats](res/screenshots/screenshot5-defeats.png "Defeats")
-Caption
-
 ![Patch preview](res/screenshots/screenshot6-patch.png "Patch preview")
-Caption
