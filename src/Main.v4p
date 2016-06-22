@@ -1,5 +1,5 @@
 <!DOCTYPE PATCH  SYSTEM "http://vvvv.org/versions/vvvv45beta33.7.dtd" >
-   <PATCH nodename="\\10.0.0.17\LvDaten\MDM\mdm14\dm141569\Modulare Medienprogrammierung\Projekt\Src\src\Main.v4p" systemname="callmenames" filename="C:\Users\Assistent\Desktop\callmenames.v4p" scrollx="0" scrolly="0">
+   <PATCH nodename="Main.v4p" systemname="callmenames" filename="Main.v4p" scrollx="0" scrolly="0">
    <BOUNDS type="Window" left="3210" top="0" width="25590" height="14880">
    </BOUNDS>
    <NODE systemname="Renderer (EX9)" nodename="Renderer (EX9)" componentmode="InAWindow" id="5">

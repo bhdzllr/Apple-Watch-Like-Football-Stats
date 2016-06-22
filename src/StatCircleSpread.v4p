@@ -1,5 +1,5 @@
 <!DOCTYPE PATCH  SYSTEM "http://vvvv.org/versions/vvvv45beta33.7.dtd" >
-   <PATCH nodename="\\10.0.0.17\LvDaten\MDM\mdm14\dm141569\Modulare Medienprogrammierung\Projekt\Src\src\StatCircleSpread.v4p" scrollx="0" scrolly="0" systemname="Patch" filename="\\10.0.0.17\LvDaten\MDM\mdm14\dm141569\Modulare Medienprogrammierung\Projekt\Patch.v4p">
+   <PATCH nodename="StatCircleSpread.v4p" scrollx="0" scrolly="0" systemname="Patch" filename="StatCircleSpread.v4p">
    <BOUNDS type="Window" left="-17520" top="3255" width="21180" height="12345">
    </BOUNDS>
    <PACK Name="Image" Version="0.2.0">

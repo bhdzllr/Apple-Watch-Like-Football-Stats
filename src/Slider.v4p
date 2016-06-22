@@ -1,5 +1,5 @@
 <!DOCTYPE PATCH  SYSTEM "http://vvvv.org/versions/vvvv45beta33.7.dtd" >
-   <PATCH nodename="\\10.0.0.17\LvDaten\MDM\mdm14\dm141569\Modulare Medienprogrammierung\Projekt\Src\src\Slider.v4p" systemname="Slider" filename="\\10.0.0.17\LvDaten\MDM\mdm14\dm141569\Modulare Medienprogrammierung\Projekt\Src\src\Slider.v4p" scrollx="0" scrolly="0">
+   <PATCH nodename="Slider.v4p" systemname="Slider" filename="Slider.v4p" scrollx="0" scrolly="0">
    <BOUNDS type="Window" left="4905" top="735" width="14595" height="13680">
    </BOUNDS>
    <PACK Name="Image" Version="0.2.0">

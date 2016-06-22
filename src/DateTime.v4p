@@ -1,5 +1,5 @@
 <!DOCTYPE PATCH  SYSTEM "http://vvvv.org/versions/vvvv45beta33.7.dtd" >
-   <PATCH nodename="\\10.0.0.17\LvDaten\MDM\mdm14\dm141569\Modulare Medienprogrammierung\Projekt\Src\src\DateTime.v4p" systemname="DateTime" filename="\\10.0.0.17\LvDaten\MDM\mdm14\dm141569\Modulare Medienprogrammierung\Projekt\Src\src\DateTime.v4p" scrollx="0" scrolly="600">
+   <PATCH nodename="DateTime.v4p" systemname="DateTime" filename="DateTime.v4p" scrollx="0" scrolly="600">
    <BOUNDS type="Window" left="2865" top="2130" width="11775" height="11760">
    </BOUNDS>
    <NODE systemname="CurrentTime (Astronomy)" nodename="CurrentTime (Astronomy)" componentmode="Hidden" id="25">

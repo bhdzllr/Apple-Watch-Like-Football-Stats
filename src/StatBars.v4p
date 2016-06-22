@@ -1,5 +1,5 @@
 <!DOCTYPE PATCH  SYSTEM "http://vvvv.org/versions/vvvv45beta33.7.dtd" >
-   <PATCH nodename="\\10.0.0.17\LvDaten\MDM\mdm14\dm141569\Modulare Medienprogrammierung\Projekt\Src\src\StatBars.v4p" systemname="Bars" filename="C:\Users\Assistent\Desktop\Bars.v4p" scrollx="0" scrolly="0">
+   <PATCH nodename="StatBars.v4p" systemname="Bars" filename="StatBars.v4p" scrollx="0" scrolly="0">
    <BOUNDS type="Window" left="-15495" top="2730" width="17145" height="12540">
    </BOUNDS>
    <PACK Name="Image" Version="0.2.0">
